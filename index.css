@@ -1,0 +1,53 @@
+body{
+    background-color:black;
+    color:white;
+}
+h3{
+    font-size: larger;
+    font-weight: 800;
+    font-style: italic;
+    color: purple;
+} 
+h4{
+    font-size: larger;
+    font-weight: 800;
+    font-style:italic;
+    color: hotpink;
+}
+h5{
+    font-size: larger;
+    font-weight: 800;
+    font-style:italic;
+    color: yellow;
+}
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: inherit;
+    color: red;
+}
+p{
+    font-stretch: extra-expanded;
+    font-size:x-large;
+}
+ol{
+    font-size: x-large;
+    font-style: italic;
+}
+ul{
+    font-size: x-large;
+    font-style: italic;
+}
+h1{
+    color: chocolate;
+    width: 300px;
+    border: 150px;
+}
+/* mouse over the link*/
+a:hover{
+    color:green;
+}
+/*visited link*/
+a :visited{
+    color: grey;
+}
