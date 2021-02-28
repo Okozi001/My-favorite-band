@@ -40,8 +40,8 @@ ul{
 }
 h1{
     color: chocolate;
-    width: 300px;
-    border: 150px;
+    text-align: center;
+
 }
 /* mouse over the link*/
 a:hover{
@@ -50,4 +50,9 @@ a:hover{
 /*visited link*/
 a :visited{
     color: grey;
+    text-decoration: ;
 }
+a{
+    text-decoration: none;
+}
+
